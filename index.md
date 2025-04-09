@@ -20,7 +20,7 @@ I'm taking these classes this quarter:
 
 Despite the banana hatred I love minions! Please find my favorite image below! 
 
-![Golfing Minion](minions.jpg "minions golfing")
+![Golfing Minion](minions.jpeg "minions golfing")
 
 And heres my [favorite minion video]()! 
 
