@@ -2,6 +2,8 @@
 
 Hello! My name is Katie! I hope you are doing well! 
 
+Learn more [about me](index.html)
+
 ## Academics
 I am a student at the University of Washington studying Informatics!! 
 
@@ -20,7 +22,7 @@ I'm taking these classes this quarter:
 
 Despite the banana hatred I love minions! Please find my favorite image below! 
 
-![Golfing Minion](minions.jpeg "minions golfing")
+![Golfing Minion](minion.jpeg "minions golfing")
 
 And heres my [favorite minion video]()! 
 
