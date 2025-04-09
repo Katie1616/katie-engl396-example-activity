@@ -24,5 +24,5 @@ Despite the banana hatred I love minions! Please find my favorite image below!
 
 ![Golfing Minion](minion.jpg "minions golfing")
 
-And heres my [favorite minion video](https://www.youtube.com/watch?v=cQ8S7lZMYIU&themeRefresh=1)! 
+And heres my [favorite minion video](https://www.youtube.com/watch?v=cQ8S7lZMYIU&themeRefresh=1)
 
