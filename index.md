@@ -15,9 +15,9 @@ I'm taking these classes this quarter:
 ## Rankings of Fruit 
 
 | Fruit | Thoughts |
-|---------:|------------|
+|:---------|------------|
 | Bananas   | DETEST! Tell me why every smoothie has to taste like Bananana???   |
-|  Apple    | Convenient, eally depends on the type. Makes my hands sticky but not *not* worth it   |
+|  Apple    | Convenient, really depends on the type. Makes my hands sticky but not *not* worth it   |
 |  Orange   | I have been known to enjoy a good orange. Not a fan of all the stringy bits, but satisfying to pick off      |
 | **Raspberries** | LOVE! The best, very expensive though. Could eat a whole container in one sitting |
 
